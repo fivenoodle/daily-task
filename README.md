@@ -10,5 +10,7 @@ Python-100-Days https://github.com/jackfrued/Python-100-Days
 
 
 视频学习
+阿里云盘
+B站-Python小白也能听懂的入门课 一节
 
 阿里云盘
